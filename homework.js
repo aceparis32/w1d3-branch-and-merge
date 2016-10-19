@@ -25,3 +25,6 @@ var mary = {
   codeNinja: true,
   country: "UK"
 }
+
+//5. Ini editan baru dari branch baru yang dibuat di lokal
+	console.log("aku adalah  anak gembala");
